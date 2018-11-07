@@ -1,5 +1,5 @@
-# hello-world
+# hello-world!
 
-1st Repository
+1st Repository.
 
-This is my first commit
+This is my first commit.
